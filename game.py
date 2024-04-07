@@ -1,5 +1,5 @@
 import pygame
-import Excel
+import excel
 
 pygame.init()
 finish = False
